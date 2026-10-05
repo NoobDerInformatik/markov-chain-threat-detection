@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+
+# Trained baselines contain usernames from training data, keep them local
+baselines/

